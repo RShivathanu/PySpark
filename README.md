@@ -1,4 +1,4 @@
-# Demo-Repo
-> I'm going to create a new repo
-> Now i'm going to add new readme file
-# Ok Bye bye
+# Pyspark
+
+## In this repository, I'm going upload all the projects and examples which I practiced in Pyspark.
+
